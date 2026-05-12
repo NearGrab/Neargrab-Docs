@@ -371,6 +371,133 @@ Admins can pin selected products on the homepage to increase visibility.
 
 ---
 
+# 📱 Screen List
+
+This section contains all the major application screens included in the NearGrab platform along with their primary purpose.
+
+---
+
+## 1. Landing / Explore Page
+**Purpose:** Allows users to browse products and shops without login
+
+---
+
+## 2. Signup Screen
+**Purpose:** Create new account
+
+---
+
+## 3. Login Screen
+**Purpose:** User authentication
+
+---
+
+## 4. Home / Feed Screen
+**Purpose:** Displays nearby products, banners, and recommendations
+
+---
+
+## 5. Product Search Results Screen
+**Purpose:** Shows searched products with filters and sorting
+
+---
+
+## 6. Product Page
+**Purpose:** Displays detailed product information
+
+---
+
+## 7. Create Review Screen
+**Purpose:** Allows users to submit ratings and reviews
+
+---
+
+## 8. Customer Profile Page
+**Purpose:** Displays user profile, saved items, and reviews
+
+---
+
+## 9. Notifications Screen
+**Purpose:** Shows alerts, updates, and activity
+
+---
+
+## 10. Chat / Inquiry Screen
+**Purpose:** Communication between customer and shopkeeper
+
+---
+
+## 11. Settings Screen
+**Purpose:** App settings and preferences
+
+---
+
+## 12. Map Redirect Overlay
+**Purpose:** Redirects users to Google Maps
+
+---
+
+## 13. Not Found Screen
+**Purpose:** Shown when no product/shop is available
+
+---
+
+## 14. Become Shopkeeper Screen
+**Purpose:** Converts customer account into seller account
+
+---
+
+## 15. Shopkeeper Dashboard
+**Purpose:** Main management area for sellers
+
+---
+
+## 16. Add Product Screen
+**Purpose:** Add new product listings
+
+---
+
+## 17. Edit Product Screen
+**Purpose:** Modify existing products
+
+---
+
+## 18. Product Catalog List
+**Purpose:** Shows all listed products
+
+---
+
+## 19. Shop Profile Page
+**Purpose:** Public storefront page for the shop
+
+---
+
+## 20. Admin Dashboard
+**Purpose:** Platform analytics and overview
+
+---
+
+## 21. User Management Screen
+**Purpose:** Manage users and shopkeepers
+
+---
+
+## 22. Product Management Screen
+**Purpose:** Moderate product listings
+
+---
+
+## 23. Sponsored Banner Management
+**Purpose:** Manage homepage banners
+
+---
+
+## 24. Pin Product Management
+**Purpose:** Manage homepage featured products
+
+---
+
+
 # 🔄 User Flow and Journey
 
 ---
